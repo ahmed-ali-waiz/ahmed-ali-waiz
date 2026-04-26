@@ -15,6 +15,9 @@ I focus on **backend engineering, databases, and system design**—building prod
 
 ---
 
+<h2>📄 Resume</h2>
+<a href="./Ahmad_Ali_Waiz_CV.pdf" target="_blank">View My CV</a>
+
 ## ⚡ Tech Stack
 
 **Languages**: JavaScript • Python • C++
