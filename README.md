@@ -13,7 +13,7 @@ I focus on **backend engineering, databases, and system design**—building prod
 * Hands-on with **APIs, auth, caching, and media pipelines**
 * Consistent contributor with growing GitHub activity
 
----
+--
 
 <h2>📄 Resume</h2>
 <a href="./Ahmad_Ali_Waiz_CV.pdf" target="_blank">View My CV</a>
