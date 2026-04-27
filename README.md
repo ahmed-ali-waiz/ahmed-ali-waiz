@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ahmad Ali
 
-🚀 **Backend Engineer (Node.js) | Future AI Engineer**
+🚀 **Backend Engineer (Node.js) | Full Stack Developer
 💻 Building scalable APIs, real-time systems, and microservices
 ---
 ## 🧠 About Me
